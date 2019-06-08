@@ -1,0 +1,6 @@
+framework module Pods_Kiedy_leci_ {
+  umbrella header "Pods-Kiedy leci?-umbrella.h"
+
+  export *
+  module * { export * }
+}
